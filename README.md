@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **HTML5 , CSS3 and JavaScript**
 
-- 👯 I’m looking to collaborate on **volunteer work**
+- 👯 I’m looking to collaborate on a **volunteer work**
 
 - 📫 How to reach me **nicolas17042005@gmail.com**
 
